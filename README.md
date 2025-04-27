@@ -43,4 +43,4 @@ The detailed project report is available : Healthcare Data Dashboard_Data_Visual
 analyzing hospital data
 
 ![Healthcare Dashboard Screenshot](./dashboard_screenshot.png)
-
+Screenshot of the interactive dashboard showing hospital admission and billing insights.
