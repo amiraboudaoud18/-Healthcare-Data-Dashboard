@@ -42,4 +42,5 @@ The detailed project report is available : Healthcare Data Dashboard_Data_Visual
 - Despite some limitations, such as performance with large datasets, Google Looker Studio proved to be a powerful and cost-effective tool for this project, offering a comprehensive solution for monitoring and
 analyzing hospital data
 
+![Healthcare Dashboard Screenshot](./dashboard_screenshot.png)
 
